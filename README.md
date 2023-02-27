@@ -1,5 +1,5 @@
-## Hi🤚 Welcome
-### To my boring 
-#### Github account
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+# Hi🤚 Welcome
+
+<img align="left" width="340" src="https://github-readme-stats.vercel.app/api?username=mx-99&show_icons=true&theme=radical"/>
+
+<img align="left" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99"/>
