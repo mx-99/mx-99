@@ -22,10 +22,13 @@
 
 ## 🔧 Programming Languages
 
-![Pl](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,bash&theme=light)
+![Pl](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash&theme=light)
+
+## 🔧 Databases
+![DB](https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=light)
 
 ## 🔧 Tools
-![Tools](https://skillicons.dev/icons?i=arch,neovim,md,git&theme=light)
+![Tools](https://skillicons.dev/icons?i=arch,neovim,vim,vscode,md,git,github&theme=light)
 
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&bg_color=053c4a&color=ffffff&line=76c533&point=8f2fe1&area=true&hide_border=true&hide_title=true)
 
