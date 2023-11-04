@@ -4,7 +4,7 @@
  <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mx-99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
  </a>
-<img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=for-the-badge&color=40c463">
+<img src="https://komarev.com/ghpvc/?username=mx-99&style=for-the-badge&color=40c463">
 
 <!-- 
 <a href="https://Tarun-Kamboj.github.io"> 
