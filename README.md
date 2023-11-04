@@ -40,6 +40,5 @@
 ![Tools](https://skillicons.dev/icons?i=arch,neovim,vim,vscode,md,git,github&theme=light)
 
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&bg_color=053c4a&color=ffffff&line=76c533&point=8f2fe1&area=true&hide_border=true&hide_title=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![mx-99's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
