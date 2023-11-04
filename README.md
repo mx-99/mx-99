@@ -5,6 +5,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mx-99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
+[![Build Status](https://img.shields.io/badge/build-passing-blue.svg?style=flat-square)](https://github.com/yourusername/yourrepository)
 
     
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -28,7 +29,7 @@
 </details>
 
 
-## 🔧 Programming Languages
+## 🔧 Programming Markup Languages
 
 ![Pl](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash&theme=light)
 
