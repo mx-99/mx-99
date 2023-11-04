@@ -37,7 +37,8 @@
 ![Pl](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash&theme=light)
 
 ## 🔧 Databases
-![DB](https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=light)  ![SQL](https://img.shields.io/badge/SQL-<Color>)
+![DB](https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=light) ![SQL](https://skillicons.dev/sql.png)
+
 
 
 ## 🔧 Tools
