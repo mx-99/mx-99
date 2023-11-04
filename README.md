@@ -4,18 +4,13 @@
   <a href="https://github.com/mx-99?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mx-99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-    
-
-  <a href="https://stars.github.com/profiles/mx-99/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 
 
     
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&languages=20)
 
 
 
