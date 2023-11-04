@@ -12,7 +12,6 @@
 
     
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99)](https://github.com/mx-99/github-readme-stats)
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -41,5 +40,6 @@
 ![Tools](https://skillicons.dev/icons?i=arch,neovim,vim,vscode,md,git,github&theme=light)
 
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&bg_color=053c4a&color=ffffff&line=76c533&point=8f2fe1&area=true&hide_border=true&hide_title=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
