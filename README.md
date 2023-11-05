@@ -27,6 +27,14 @@
 
 </p>
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="3-stats">
+ <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="1-repos-per-language">
+ <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="2-most-commit-language">
+ <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="4-productive-time">
+ <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="0-profile-details">
+</p>
+
 
 <p align="center">    
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
