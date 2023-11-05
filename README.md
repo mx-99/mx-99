@@ -10,6 +10,7 @@
 <a href="https://Tarun-Kamboj.github.io"> 
 <img height="40px" src="Images/Static/portfolio.png" title="Portfolio"> 
 </a> 
+![Project Badge](https://img.shields.io/badge/Project-Name-blue)
 
 
 
