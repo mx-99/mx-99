@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Web+Developer;In+my+leisure+hours;I+embark+upon+assorted+ventures.;Ricer;I+Use+Arch+BTW)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://Tarun-Kamboj.github.io"> 
+<a href="https://github.com/mx-99"> 
 <img height="40px" src="Images/Static/port2.png" lt="Portfolio" title="Portfolio"> 
 </a> 
  <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
