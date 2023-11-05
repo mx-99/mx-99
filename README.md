@@ -17,15 +17,6 @@
  </a>
 </p>
 
-<p align="center">
-
-![3-stats](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg "3-stats")
-[![1-repos-per-language](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg "1-repos-per-language")](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![2-most-commit-language](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg "2-most-commit-language")
-![4-productive-time](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg "4-productive-time")
-![0-profile-details](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg "0-profile-details")
-
-</p>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="3-stats">
@@ -34,13 +25,6 @@
  <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="4-productive-time">
  <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="0-profile-details">
 </p>
-
-
-<p align="center">    
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) </p>
 
 
 
@@ -55,20 +39,14 @@
   ##  📕 Top Projects I've Contributed To
  <!--<a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a> -->
 
-<a href="https://github.com/mx-99?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+## <a href="https://github.com/mx-99?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 
-## 🔧 Programming Languages, Markup and Frameworks 
+## 🔧 Programming Languages, Markup, Frameworks, DB and Tools 
 
-![Pl](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash&theme=light)
+![Pl](https://skillicons.dev/icons?i=arch,html,css,js,ts,nodejs,react,bash,mongodb,mysql,neovim,vim,vscode,md,git,github&&theme=light)
 
-## 🔧 Databases
-![DB](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)
-
-
-## 🔧 Tools
-![](https://skillicons.dev/icons?i=arch,neovim,vim,vscode,md,git,github&theme=light)
 
 [![mx-99's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
