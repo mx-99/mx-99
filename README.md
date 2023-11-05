@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Web+Developer;In+my+leisure+hours;I+embark+upon+assorted+ventures.;Ricer;I+Use+Arch+BTW)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mx-99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
  </a>
@@ -18,7 +18,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
  <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="3-stats">
  <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="1-repos-per-language">
  <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="2-most-commit-language">
