@@ -16,11 +16,12 @@
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mx-99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
  </a>
 </p>
-<p align="center">    
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) </p>
+![3-stats](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg "3-stats")
+[![1-repos-per-language](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg "1-repos-per-language")](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![2-most-commit-language](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg "2-most-commit-language")
+![4-productive-time](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg "4-productive-time")
+![0-profile-details](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg "0-profile-details")
+
 
 <p align="center">    
 [![](https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
