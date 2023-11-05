@@ -6,13 +6,12 @@
  </a>
 <img src="https://komarev.com/ghpvc/?username=mx-99&style=for-the-badge&color=40c463">
 
-<!-- 
+
 <a href="https://Tarun-Kamboj.github.io"> 
 <img height="40px" src="Images/Static/portfolio.png" title="Portfolio"> 
 </a> 
--->
 
-![image](https://github.com/mx-99/mx-99/assets/125824465/1fefc7c2-9050-4273-8f83-2e0b5db582e5)
+
 
 
  <a href="https://github.com/mx-99?tab=followers">
