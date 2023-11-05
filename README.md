@@ -45,7 +45,7 @@
 
 ## 🔧 Programming Languages, Markup, Frameworks, DB and Tools 
 
-![Pl](https://skillicons.dev/icons?i=arch,html,css,js,ts,nodejs,react,bash,mongodb,mysql,neovim,vim,vscode,md,git,github&&theme=light)
+![Pl](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash,mongodb,mysql,neovim,vim,vscode,md,git,github&&theme=light)
 
 
 [![mx-99's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
