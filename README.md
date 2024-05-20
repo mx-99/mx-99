@@ -17,11 +17,7 @@
 
 
 <p align="left">
- <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="3-stats">
- <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="1-repos-per-language">
- <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="2-most-commit-language">
- <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="4-productive-time">
- <img src="https://raw.githubusercontent.com/mx-99/mx-99/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="0-profile-details">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </p>
 
 
