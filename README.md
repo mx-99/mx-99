@@ -15,10 +15,7 @@
 </p>
 <p><img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 
-
-<p align="left">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</p>
+![mx-99's Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
 
 
 
