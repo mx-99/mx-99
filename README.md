@@ -16,6 +16,7 @@
 <p><img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 
 ![mx-99's Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+![mx-99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=false)
 
 
 
