@@ -13,6 +13,7 @@
   </a>
 </p>
 
+### 🛠️ GitHub Stats
 ![mx-99's Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
 ![mx-99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=false)
 ![mx-99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
@@ -39,4 +40,5 @@
 ## 🔧 Programming Languages, Markup, Frameworks, DB, and Tools
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash,mongodb,mysql,neovim,vim,vscode,md,git,github&theme=light)
 
+## 📈 GitHub Activity
 [![mx-99's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
