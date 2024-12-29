@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+Use+Arch+BTW+)](https://git.io/typing-svg)
-
-<h1>###</h1>
+<h1></h1>
 
 <p align="left">
   <a href="https://github.com/mx-99">
