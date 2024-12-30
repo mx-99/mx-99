@@ -2,7 +2,7 @@
 <h1></h1>
 <p align="left">
   <a href="https://github.com/mx-99">
-    <img height="40px" src="Images/Static/port2.png" alt="Portfolio" title="Portfolio" <span>Portofolio</span></a> 
+    <img height="40px" src="Images/Static/port2.png" alt="Portfolio" title="Portfolio" <br><span>Portofolio</span></a> 
   </a> 
   <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mx-99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
