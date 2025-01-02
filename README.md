@@ -24,9 +24,9 @@
   </a>
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/mx-99/12_week_year_template">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=12_week_year_template&theme=chartreuse-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=12_week_year_template&theme=reac&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects">
   </a>
 </p>
 
