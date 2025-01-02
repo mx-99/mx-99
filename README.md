@@ -17,25 +17,30 @@
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
-## 📘 My Top Open Source Projects
-<p align="left">
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <p align="left">
   <a href="https://github.com/mx-99/my_odin_projects">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=my_odin_projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects">
   </a>
-</p>
-
-<p align="center">
+    
   <a href="https://github.com/mx-99/12_week_year_template">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=12_week_year_template&theme=reac&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects">
   </a>
 </p>
+</details>
 
-## 📕 Top Projects I've Contributed To
+<details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <p align="left">
 <!-- Uncomment to add a project
 <a href="https://github.com/pallets/flask">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask">
 </a>
 -->
+      </p>
+</details>
+
 
 ## 🔗 Explore All My Repositories
 <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
