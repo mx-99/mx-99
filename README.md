@@ -14,7 +14,7 @@
 
 ### 🛠️ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-![mx-99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=false)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📘 My Top Open Source Projects
@@ -24,9 +24,9 @@
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/mx-99/12_week_year_template">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=my_odin_projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=12_week_year_template&theme=chartreuse-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects">
   </a>
 </p>
 
