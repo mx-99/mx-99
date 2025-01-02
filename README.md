@@ -24,6 +24,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/mx-99/12_week_year_template">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=my_odin_projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects">
+  </a>
+</p>
+
 ## 📕 Top Projects I've Contributed To
 <!-- Uncomment to add a project
 <a href="https://github.com/pallets/flask">
