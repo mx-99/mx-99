@@ -13,7 +13,7 @@
 </p>
 
 ### 🛠️ GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mx-99&theme=highcontrast&border_radius=7.5&card_width=1000&card_height=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mx-99&theme=github-dark&border_radius=7.5&card_width=1000&card_height=250)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -22,7 +22,7 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)-->
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Open Source Projects</h2></summary>
   <p align="left">
   <a href="https://github.com/mx-99/my_odin_projects">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=my_odin_projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects"></a>
@@ -33,7 +33,7 @@
 </details>
 
 <details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2>Projects I've Contributed To</h2></summary>
   <p align="left">
 <!-- Uncomment to add a project
 <a href="https://github.com/pallets/flask">
