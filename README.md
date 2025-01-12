@@ -13,13 +13,19 @@
 </p>
 
 ### 🛠️ GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mx-99&theme=github-dark&border_radius=7.5&card_width=1000&card_height=250)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=mx-99&theme=highcontrast&border_radius=7.5&card_width=1000&card_height=350)](https://git.io/streak-stats)-->
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=true&card_width=1000&card_height=250)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&card_width=1000&card_height=250)
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=true) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true) -->
+
+<!--![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=true) -->
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 <details open> 
   <summary><h2>📘 My Open Source Projects</h2></summary>
