@@ -14,16 +14,8 @@
 
 ### 🛠️ GitHub Stats
 [![GitHub Streak](https://mx-github-readme-streak-stats.vercel.app?user=mx-99&theme=chartreuse-dark&hide_border=true&border_radius=0&card_width=1000&card_height=400)](https://git.io/streak-stats)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&card_width=1000&card_height=250)
 
-
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true) -->
-
-<!--![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mx-99&theme=chartreuse-dark&hide_border=true) -->
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 <details open> 
   <summary><h2>📘 My Open Source Projects</h2></summary>
