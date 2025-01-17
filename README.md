@@ -29,11 +29,16 @@
   <summary><h2>📘 My Open Source Projects</h2></summary>
   <p align="left">
   <a href="https://github.com/mx-99/my_odin_projects">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=my_odin_projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects"></a>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=my_odin_projects&theme=blue_navy&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects"></a>
     
   <a href="https://github.com/mx-99/12_week_year_template">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=12_week_year_template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects"></a>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=12_week_year_template&theme=blue_navy&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Template"></a>
+      
+      
+<a href="https://github.com/mx-99/dotfiles">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=Dotfiles&theme=blue_navy&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dotfiles"></a>
 </p>
+
 </details>
 
 <details open> 
