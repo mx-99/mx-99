@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&width=450&lines=FullStack+Web+Developer;I+use+Arch+BTW)](https://git.io/typing-svg)<h1></h1>
-<p align="left">
-  <a href="https://github.com/mx-99">
-    <img height="40px" src="Images/Static/port2.png" alt="Portfolio" title="Portfolio" </a> 
-  </a> 
-    <a href="https://mx-99.github.io/" target="_blank" rel="noreferrer">
-    <img height="40px" src="Images/Static/blog-solid.svg" alt="blog" title="blog" </a> 
-  </a>
-  <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mx-99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mx-99&style=for-the-badge&color=40c463">
-  <a href="https://github.com/mx-99?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mx-99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
+<p align="left"> 
+    <a href="https://github.com/mx-99" target="_blank" rel="noreferrer"> 
+        <img height="40px" src="Images/Static/port2.png" alt="Portfolio" title="Portfolio" />
+    </a> 
+    <a href="https://mx-99.github.io/" target="_blank" rel="noreferrer"> 
+        <img height="40px" src="Images/Static/blog-solid.svg" alt="Blog" title="Blog" />
+    </a> 
+    <a href="https://github.com/mx-99?tab=repositories&sort=stargazers" target="_blank" rel="noreferrer"> 
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mx-99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a> 
+    <img src="https://komarev.com/ghpvc/?username=mx-99&style=for-the-badge&color=40c463" />
+    <a href="https://github.com/mx-99?tab=followers" target="_blank" rel="noreferrer"> 
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mx-99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a> 
 </p>
 
 ### 🛠️ GitHub Stats
