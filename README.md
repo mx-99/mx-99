@@ -3,7 +3,7 @@
   <a href="https://github.com/mx-99">
     <img height="40px" src="Images/Static/port2.png" alt="Portfolio" title="Portfolio" </a> 
   </a> 
-    <a href="https://mx-99.github.io/">
+    <a href="https://mx-99.github.io/" target="_blank" rel="noreferrer">
     <img height="40px" src="Images/Static/blog-solid.svg" alt="blog" title="blog" </a> 
   </a>
   <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
