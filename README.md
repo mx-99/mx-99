@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&width=450&lines=FullStack+Web+Developer;I+use+Arch+BTW)](https://git.io/typing-svg)<h1></h1>
+
 <p align="left"> 
     <a href="https://github.com/mx-99" target="_blank" rel="noreferrer"> 
         <img height="40px" src="Images/Static/port2.png" alt="Portfolio" title="Portfolio" />
@@ -16,9 +17,9 @@
 </p>
 
 ### 🛠️ GitHub Stats
+
 [![GitHub Streak](https://mx-github-readme-streak-stats.vercel.app?user=mx-99&theme=chartreuse-dark&hide_border=true&border_radius=0&card_width=1000&card_height=350)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mx-99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&card_width=1000&card_height=250)
-
 
 <details open> 
   <summary><h2>📘 My Open Source Projects</h2></summary>
@@ -26,8 +27,8 @@
   <a href="https://github.com/mx-99/my_odin_projects">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=my_odin_projects&theme=chartreuse-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_odin_projects"></a>
     
-  <a href="https://github.com/mx-99/12_week_year_template">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=12_week_year_template&theme=chartreuse-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Template"></a>
+  <a href="https://github.com/mx-99/odin_focus">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mx-99&repo=odin_focus&theme=chartreuse-dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Template"></a>
       
       
 <a href="https://github.com/mx-99/dotfiles">
@@ -47,14 +48,16 @@
       </p>
 </details>
 
-
 ## 🔗 Explore All My Repositories
+
 <a href="https://github.com/mx-99?tab=repositories&sort=stargazers">
   <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 
 ## 🔧 Programming Languages, Markup, Frameworks, DB, and Tools
+
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash,mongodb,mysql,neovim,vim,vscode,md,git,github&theme=light)
 
 ## 📈 GitHub Activity
+
 [![mx-99's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mx-99&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
